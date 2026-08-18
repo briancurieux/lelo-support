@@ -48,7 +48,7 @@ to your books and articles, fully offline.*
 ## Soporte · Support
 
 ¿Preguntas o problemas? Abre un *issue* aquí en GitHub o escribe a
-**brimuvel@gmail.com**.
+**hello@muvel.design**.
 
 *Questions or problems? Open an issue here on GitHub or write to
-**brimuvel@gmail.com**.*
+**hello@muvel.design**.*
